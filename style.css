@@ -1,0 +1,44 @@
+<style>
+    body {
+
+      background: url("http://imgur.com/4MWeMTM.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+
+    }
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 3px solid #ccc;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+}
+
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+
+.cancelbtn,.signupbtn {
+    float: left;
+    width: 50%;
+}
+
+.container {
+    padding: 14px;
+}
+
+/* Clear floats */
+.clearfix {
+  overflow: auto;     /* element taller then box used to fix the box*/
+}
+
+</style>
